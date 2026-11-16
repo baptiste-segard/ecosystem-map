@@ -1,0 +1,886 @@
+{
+ "types": {
+  "standard": {
+   "label": "Standards, accreditations & ratings",
+   "icon": ""
+  },
+  "research": {
+   "label": "Research & publications",
+   "icon": ""
+  },
+  "curriculum": {
+   "label": "Curricula, courses & pedagogy",
+   "icon": ""
+  },
+  "tool": {
+   "label": "Tools, assessments & workshops",
+   "icon": ""
+  },
+  "programme": {
+   "label": "Programmes & prototypes",
+   "icon": ""
+  },
+  "convening": {
+   "label": "Communities & gatherings",
+   "icon": ""
+  }
+ },
+ "resources": [
+  {
+   "id": "prme-principles",
+   "type": "standard",
+   "title": "Principles for Responsible Management Education (PRME) & SIP reporting",
+   "year": 2007,
+   "url": "https://www.unprme.org/",
+   "summary": "Seven principles signed by 650+ business and management schools, with a biennial Sharing Information on Progress report. Developed in 2007 by a task force convened by the UN Global Compact with the main management-education bodies.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Faculty / researchers",
+    "Accrediting / QA professionals"
+   ],
+   "themes": [
+    "Responsible management education"
+   ],
+   "links": [
+    {
+     "org": "rec7ffaypwGoAs96C",
+     "rel": "produces"
+    },
+    {
+     "org": "reciVBmDuZ5OBxu92",
+     "rel": "hosts"
+    },
+    {
+     "org": "recGYAgOCS14T3xnJ",
+     "rel": "co-developed"
+    },
+    {
+     "org": "reclaEXDobav9797x",
+     "rel": "co-developed"
+    },
+    {
+     "org": "recs8rNQupxDtxOe3",
+     "rel": "co-developed"
+    },
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "co-developed"
+    },
+    {
+     "org": "recGwTZNJvYca5ZrB",
+     "rel": "co-developed"
+    },
+    {
+     "org": "recRVvscWnnJlU4zF",
+     "rel": "co-developed"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "sulitest",
+   "type": "tool",
+   "title": "Sulitest — sustainability literacy test (TASK™)",
+   "year": 2014,
+   "url": "https://www.sulitest.org/",
+   "summary": "Online assessment of sustainability knowledge used by universities and organisations worldwide; born from the UN Higher Education Sustainability Initiative after Rio+20 and promoted by PRME.",
+   "roles": [
+    "Faculty / researchers",
+    "Students / young professionals",
+    "Deans / rectors / presidents"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Assessment / measurement / ratings"
+   ],
+   "links": [
+    {
+     "org": "rec0oIfk2ZrKO3TGn",
+     "rel": "produces"
+    },
+    {
+     "org": "recricfb5U4QhJWxb",
+     "rel": "hosts"
+    },
+    {
+     "org": "rec7ffaypwGoAs96C",
+     "rel": "supports"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "climate-fresk",
+   "type": "tool",
+   "title": "Climate Fresk (La Fresque du Climat) workshop",
+   "year": 2018,
+   "url": "https://climatefresk.org/",
+   "summary": "Three-hour collaborative workshop on the science of climate change (IPCC-based), delivered by trained facilitators in schools, universities and companies; widely used in French business-school curricula.",
+   "roles": [
+    "Students / young professionals",
+    "Faculty / researchers",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recimfAy4GtSMzCbr",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "aacsb-standards",
+   "type": "standard",
+   "title": "AACSB Business Accreditation Standards (2020), incl. societal impact",
+   "year": 2020,
+   "url": "https://www.aacsb.edu/educators/accreditation/business-accreditation/aacsb-business-accreditation-standards",
+   "summary": "Accreditation standards for 1,000+ business schools; the 2020 revision makes positive societal impact an explicit expectation. GRLI is held in strategic partnership with AACSB, EFMD and oikos.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Accrediting / QA professionals"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Responsible management education"
+   ],
+   "links": [
+    {
+     "org": "recGYAgOCS14T3xnJ",
+     "rel": "produces"
+    },
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "partner"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "equis-bsis",
+   "type": "standard",
+   "title": "EFMD EQUIS accreditation & BSIS (Business School Impact System)",
+   "year": 1997,
+   "url": "https://www.efmdglobal.org/accreditations/",
+   "summary": "EQUIS accredits whole business schools with an ethics, responsibility and sustainability chapter; BSIS, created by FNEGE and developed with EFMD, measures a school’s impact on its territory.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Accrediting / QA professionals"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings"
+   ],
+   "links": [
+    {
+     "org": "reclaEXDobav9797x",
+     "rel": "produces"
+    },
+    {
+     "org": "recGVUzMHYvAOfWlY",
+     "rel": "co-developed"
+    },
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "partner"
+    },
+    {
+     "org": "recBSIS2026efmd01",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "amba",
+   "type": "standard",
+   "title": "AMBA & BGA accreditation",
+   "year": 1967,
+   "url": "https://www.associationofmbas.com/",
+   "summary": "Programme-level accreditation of MBA, DBA and master’s degrees, plus the Business Graduates Association charter on responsible management and impact.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Accrediting / QA professionals"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings"
+   ],
+   "links": [
+    {
+     "org": "recY32iePzplx8PWq",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "pir",
+   "type": "standard",
+   "title": "Positive Impact Rating for business schools",
+   "year": 2020,
+   "url": "https://www.positiveimpactrating.org/",
+   "summary": "The first rating of business schools conducted by their own students, measuring perceived societal impact; launched with the support of oikos International and GRLI among others.",
+   "roles": [
+    "Students / young professionals",
+    "Deans / rectors / presidents"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Student leadership / youth agency"
+   ],
+   "links": [
+    {
+     "org": "recU6Eu1u4962oZQs",
+     "rel": "produces"
+    },
+    {
+     "org": "recI3zxIrtfnDBLiT",
+     "rel": "supports"
+    },
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "supports"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "rrbm-vision",
+   "type": "research",
+   "title": "RRBM — A Vision of Responsible Research in Business and Management",
+   "year": 2017,
+   "url": "https://www.rrbm.network/position-paper/",
+   "summary": "Position paper and network calling for credible and useful research; endorsed and co-sponsored by the main accreditation and school networks.",
+   "roles": [
+    "Faculty / researchers",
+    "Deans / rectors / presidents"
+   ],
+   "themes": [
+    "Research transformation"
+   ],
+   "links": [
+    {
+     "org": "recMsPhIJCQSL81iX",
+     "rel": "produces"
+    },
+    {
+     "org": "recGYAgOCS14T3xnJ",
+     "rel": "supports"
+    },
+    {
+     "org": "reclaEXDobav9797x",
+     "rel": "supports"
+    },
+    {
+     "org": "rec7ffaypwGoAs96C",
+     "rel": "supports"
+    },
+    {
+     "org": "recyYuWht01xsek1z",
+     "rel": "supports"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "5020",
+   "type": "research",
+   "title": "The 50+20 Agenda — Management Education for the World",
+   "year": 2012,
+   "url": "https://grli.org/50plus20/",
+   "summary": "Vision for management education presented at Rio+20, co-produced by GRLI, PRME and the World Business School Council for Sustainable Business; foundation of the “business schools for the world” narrative.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Responsible management education",
+    "Systems change / transformation"
+   ],
+   "links": [
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "produces"
+    },
+    {
+     "org": "rec7ffaypwGoAs96C",
+     "rel": "co-developed"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "gvv",
+   "type": "curriculum",
+   "title": "Giving Voice to Values curriculum",
+   "year": 2009,
+   "url": "http://www.givingvoicetovaluesthebook.com/",
+   "summary": "Values-driven leadership curriculum (cases, exercises, pedagogy) created with the Aspen Institute and Yale SOM, now hosted at Babson College and used in 1,000+ schools and companies.",
+   "roles": [
+    "Faculty / researchers",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership"
+   ],
+   "links": [
+    {
+     "org": "recMpaOlNlR8DI7bs",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "gmat",
+   "type": "tool",
+   "title": "GMAT exam",
+   "year": 1954,
+   "url": "https://www.gmac.com/",
+   "summary": "Standardised admission test owned by GMAC, used by 7,000+ graduate business programmes; a lever on who enters management education.",
+   "roles": [
+    "Students / young professionals",
+    "Deans / rectors / presidents"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings"
+   ],
+   "links": [
+    {
+     "org": "recs8rNQupxDtxOe3",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "sdg-academy",
+   "type": "curriculum",
+   "title": "SDG Academy free online courses",
+   "year": 2014,
+   "url": "https://sdgacademy.org/",
+   "summary": "Free MOOCs and teaching materials on sustainable development, produced by the SDG Academy, the education arm of the UN Sustainable Development Solutions Network.",
+   "roles": [
+    "Faculty / researchers",
+    "Students / young professionals"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Responsible management education"
+   ],
+   "links": [
+    {
+     "org": "recw9Z1onUm5XXPFy",
+     "rel": "produces"
+    },
+    {
+     "org": "recEjnGokWVrfjL3d",
+     "rel": "hosts"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "hesi-framework",
+   "type": "convening",
+   "title": "HESI Communities of Practice & Partnership Framework",
+   "year": 2025,
+   "url": "https://sdgs.un.org/HESI",
+   "summary": "UN-backed partnership of 1,300+ universities, networks and UN entities; thematic communities of practice launched at the 2025 HESI Global Forum, chaired with UN DESA, UN University, UNESCO-IESALC and Sulitest.",
+   "roles": [
+    "Policymakers / multilateral actors",
+    "Deans / rectors / presidents",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Systems change / transformation"
+   ],
+   "links": [
+    {
+     "org": "recricfb5U4QhJWxb",
+     "rel": "produces"
+    },
+    {
+     "org": "rec0oIfk2ZrKO3TGn",
+     "rel": "co-developed"
+    },
+    {
+     "org": "recU1rd49VjXNN4gu",
+     "rel": "partner"
+    },
+    {
+     "org": "recK8v0VORyqoxm1W",
+     "rel": "partner"
+    },
+    {
+     "org": "reciVBmDuZ5OBxu92",
+     "rel": "partner"
+    },
+    {
+     "org": "rec7ffaypwGoAs96C",
+     "rel": "partner"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "earth4all",
+   "type": "research",
+   "title": "Earth for All — a survival guide for humanity (report to the Club of Rome)",
+   "year": 2022,
+   "url": "https://www.earth4all.life/",
+   "summary": "Modelling-based report proposing five extraordinary turnarounds, convened by the Club of Rome with the Potsdam Institute, Stockholm Resilience Centre and BI Norwegian Business School; basis of policy and teaching material.",
+   "external": [
+    "The Club of Rome",
+    "Potsdam Institute",
+    "Stockholm Resilience Centre",
+    "BI Norwegian Business School"
+   ],
+   "roles": [
+    "Policymakers / multilateral actors",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Biodiversity / planetary boundaries"
+   ],
+   "links": [
+    {
+     "org": "recr9qLdEpVmfvKZ2",
+     "rel": "produces"
+    }
+   ]
+  },
+  {
+   "id": "nbs-guides",
+   "type": "research",
+   "title": "NBS evidence-based guides & research-centre community",
+   "year": 2005,
+   "url": "https://www.nbs.net/",
+   "summary": "Peer-reviewed, practice-oriented syntheses for business leaders, and a community of 170+ sustainability research centres in business schools.",
+   "roles": [
+    "Faculty / researchers",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Research transformation",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recESG7xLNXNno0Xq",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "the-impact",
+   "type": "standard",
+   "title": "THE Impact Rankings (universities against the SDGs)",
+   "year": 2019,
+   "url": "https://www.timeshighereducation.com/impactrankings",
+   "summary": "Global ranking assessing 2,000+ universities on research, stewardship, outreach and teaching towards the 17 SDGs.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Policymakers / multilateral actors"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recgPECGnslUqz1fv",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "sdg-accord",
+   "type": "standard",
+   "title": "SDG Accord — the university and college sector’s collective response to the SDGs",
+   "year": 2017,
+   "url": "https://www.sdgaccord.org/",
+   "summary": "Commitment signed by institutions and networks to embed the SDGs and report annually; developed and led by EAUC with sector partners and the UN HESI.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Students / young professionals"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Governance / institutional change"
+   ],
+   "links": [
+    {
+     "org": "recJknyt7oxngQ1GY",
+     "rel": "produces"
+    },
+    {
+     "org": "rec7P8trJhm9Petwg",
+     "rel": "hosts"
+    },
+    {
+     "org": "recricfb5U4QhJWxb",
+     "rel": "supports"
+    },
+    {
+     "org": "recRjluUid7Y43cCp",
+     "rel": "supports"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "stars",
+   "type": "tool",
+   "title": "AASHE STARS — Sustainability Tracking, Assessment & Rating System",
+   "year": 2009,
+   "url": "https://stars.aashe.org/",
+   "summary": "Self-reporting framework used by 1,000+ colleges and universities to measure sustainability performance across academics, engagement, operations and administration.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recFSTIHB47WuDGnV",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "bs4cl-toolkit",
+   "type": "curriculum",
+   "title": "Business Schools for Climate Leadership toolkit",
+   "year": 2021,
+   "url": "https://sites.google.com/view/bs4cl/home",
+   "summary": "Open toolkit for business leaders on climate action, co-authored by eight European business schools (Cambridge Judge, HEC Paris, IE, IESE, INSEAD, LBS, Oxford Saïd, IMD).",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recWTgvvFWnotY64M",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "imp",
+   "type": "standard",
+   "title": "Impact Management Platform — shared vocabulary of impact management",
+   "year": 2021,
+   "url": "https://impactmanagementplatform.org/",
+   "summary": "Collaboration of standard-setters (UNEP FI, UN Global Compact, WBCSD, B Lab, GRI, OECD, IFRS…) clarifying the actions of impact management and how their standards fit together.",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Policymakers / multilateral actors"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recp9XhjZFNlIxiBM",
+     "rel": "produces"
+    },
+    {
+     "org": "recK8v0VORyqoxm1W",
+     "rel": "partner"
+    },
+    {
+     "org": "reciVBmDuZ5OBxu92",
+     "rel": "partner"
+    },
+    {
+     "org": "reciFdJvAsamgKS5B",
+     "rel": "partner"
+    },
+    {
+     "org": "recwl8aZZzFFTzMUC",
+     "rel": "partner"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "b-impact",
+   "type": "tool",
+   "title": "B Impact Assessment & B Corp certification",
+   "year": 2007,
+   "url": "https://bcorporation.net/",
+   "summary": "Free assessment of a company’s social and environmental performance, basis of B Corp certification (9,000+ companies); used as a teaching case and student challenge in business schools.",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Students / young professionals"
+   ],
+   "themes": [
+    "Assessment / measurement / ratings",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "recwl8aZZzFFTzMUC",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "crt-principles",
+   "type": "standard",
+   "title": "Caux Round Table Principles for Business",
+   "year": 1994,
+   "url": "https://www.cauxroundtable.org/principles/",
+   "summary": "Early stakeholder-based ethical principles for business, revised in 2009, with a self-assessment process (Arcturus).",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership"
+   ],
+   "links": [
+    {
+     "org": "recJ3xQovTiUPaJ91",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "globethics-library",
+   "type": "research",
+   "title": "Globethics open-access library & Consortium on Ethics in Higher Education",
+   "year": 2008,
+   "url": "https://globethics.net/",
+   "summary": "Multilingual digital library on ethics, accredited online courses and a consortium of universities working on ethics in higher education.",
+   "roles": [
+    "Faculty / researchers",
+    "Students / young professionals"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership"
+   ],
+   "links": [
+    {
+     "org": "recu4IzSgqIDWEeKe",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "eom-model",
+   "type": "curriculum",
+   "title": "Economics of Mutuality operating model, cases & curricula",
+   "year": 2020,
+   "url": "https://eom.org/",
+   "summary": "Impact-led management model developed in a Mars–Saïd Business School programme, with teaching curricula and case studies now carried by the EoM Alliance.",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership",
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "rec4MyAOvKSgOX22q",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "2tonnes",
+   "type": "tool",
+   "title": "2tonnes workshop",
+   "year": 2020,
+   "url": "https://www.2tonnes.org/",
+   "summary": "Three-hour simulation workshop in which participants build a path to a 2-tonne carbon footprint by 2050, used in schools and companies.",
+   "roles": [
+    "Students / young professionals",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Sustainability / climate"
+   ],
+   "links": [
+    {
+     "org": "rechVCBBLmccDUReX",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "drucker-forum",
+   "type": "convening",
+   "title": "Global Peter Drucker Forum (Vienna)",
+   "year": 2009,
+   "url": "https://www.druckerforum.org/",
+   "summary": "Annual management conference gathering academics, executives and students around Drucker’s humanistic management thinking.",
+   "roles": [
+    "Corporate leaders / practitioners",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership"
+   ],
+   "links": [
+    {
+     "org": "recJzgDZweQizbfK7",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "proto-ecosystem",
+   "type": "programme",
+   "title": "Prototype — Responsible ecosystem management",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Light coordination structure for business-education networks and standards bodies, led by the GRLI Foundation as one of the initiative’s first prototypes.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Accrediting / QA professionals"
+   ],
+   "themes": [
+    "Systems change / transformation"
+   ],
+   "links": [
+    {
+     "org": "reclJX4d8JM6qAoLG",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "proto-hla",
+   "type": "programme",
+   "title": "Prototype — Humanistic Leadership Academy",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Four-stage programme for applying humanistic leadership, led by the International Humanistic Management Association.",
+   "roles": [
+    "Faculty / researchers",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Ethics / values / humanistic leadership"
+   ],
+   "links": [
+    {
+     "org": "recRoz73d5YX8Sohn",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "proto-student-voice",
+   "type": "programme",
+   "title": "Prototype — Student voice",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Integrates students’ experiences and aspirations into business education, led by HE4G, the Club of Rome and oikos International.",
+   "external": [
+    "Higher Education for Good Foundation",
+    "The Club of Rome"
+   ],
+   "roles": [
+    "Students / young professionals",
+    "Deans / rectors / presidents"
+   ],
+   "themes": [
+    "Student leadership / youth agency"
+   ],
+   "links": [
+    {
+     "org": "recI3zxIrtfnDBLiT",
+     "rel": "produces"
+    }
+   ]
+  },
+  {
+   "id": "proto-cities",
+   "type": "programme",
+   "title": "Prototype — Business schools for thriving cities",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Research programme on how business schools can support their host cities, led by the Global Business School Network.",
+   "roles": [
+    "Deans / rectors / presidents",
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Social innovation / social impact"
+   ],
+   "links": [
+    {
+     "org": "recyYuWht01xsek1z",
+     "rel": "produces"
+    }
+   ],
+   "external": []
+  },
+  {
+   "id": "proto-u",
+   "type": "programme",
+   "title": "Prototype — Awareness-based systems transformation journey",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Four-session programme for educators based on Theory U, led by the Presencing Institute.",
+   "external": [
+    "Presencing Institute"
+   ],
+   "roles": [
+    "Faculty / researchers"
+   ],
+   "themes": [
+    "Systems change / transformation"
+   ],
+   "links": []
+  },
+  {
+   "id": "proto-cec",
+   "type": "programme",
+   "title": "Prototype — CEC academic roadmap",
+   "year": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "summary": "Joint roadmap to transform curricula and institutions, starting in France then across Europe, led by the Convention des Entreprises pour le Climat.",
+   "external": [
+    "Convention des Entreprises pour le Climat"
+   ],
+   "roles": [
+    "Deans / rectors / presidents",
+    "Corporate leaders / practitioners"
+   ],
+   "themes": [
+    "Sustainability / climate",
+    "Governance / institutional change"
+   ],
+   "links": []
+  }
+ ]
+}

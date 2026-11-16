@@ -1,0 +1,1095 @@
+{
+ "programme": {
+  "name": "Transforming Business Education for Flourishing",
+  "name_fr": "Transformer l'enseignement du management pour l'épanouissement",
+  "principle": "Small, well-targeted actions can transform a system.",
+  "principle_fr": "De petites actions bien ciblées peuvent transformer un système.",
+  "approach": [
+   {
+    "k": "map",
+    "en": "System mapping to identify where change can have the greatest impact",
+    "fr": "Cartographie du système pour identifier les domaines où un changement peut avoir le plus grand impact"
+   },
+   {
+    "k": "pockets",
+    "en": "Small strategic initiatives — pockets of energy",
+    "fr": "Petites initiatives stratégiques, ou « poches d'énergie »"
+   },
+   {
+    "k": "align",
+    "en": "Collective alignment of actors",
+    "fr": "Alignement collectif des acteurs"
+   },
+   {
+    "k": "learn",
+    "en": "Test and learn: prototypes that generate evidence, then scale what works",
+    "fr": "Tester et apprendre en créant des prototypes pour générer des preuves et généraliser ce qui fonctionne"
+   }
+  ],
+  "steps": [
+   {
+    "n": 1,
+    "en": "Convene",
+    "fr": "Réunion",
+    "desc_en": "Bring together key actors from every sector and region.",
+    "desc_fr": "Réunir les acteurs clés de tous les secteurs et de toutes les régions."
+   },
+   {
+    "n": 2,
+    "en": "Ecosystem mapping",
+    "fr": "Cartographie de l'écosystème",
+    "desc_en": "An interactive, evolving map of actors, their activities, locations and collaboration opportunities. First release planned early 2027.",
+    "desc_fr": "Une cartographie interactive et évolutive recensant les acteurs, leurs activités, leur localisation et les possibilités de collaboration. Première version prévue début 2027."
+   },
+   {
+    "n": 3,
+    "en": "Prototype support",
+    "fr": "Support des prototypes",
+    "desc_en": "Fund a small number of initial prototypes as concrete examples.",
+    "desc_fr": "Financer un petit nombre de prototypes initiaux servant d'exemples concrets."
+   },
+   {
+    "n": 4,
+    "en": "Connecting initiatives",
+    "fr": "Initiatives de mise en relation",
+    "desc_en": "Support collaboration between existing initiatives.",
+    "desc_fr": "Soutenir la collaboration entre les initiatives existantes."
+   }
+  ]
+ },
+ "stages": [
+  {
+   "k": "idea",
+   "en": "Idea",
+   "fr": "Idée"
+  },
+  {
+   "k": "prototype",
+   "en": "Prototype",
+   "fr": "Prototype"
+  },
+  {
+   "k": "evidence",
+   "en": "Evidence",
+   "fr": "Preuves"
+  },
+  {
+   "k": "scaling",
+   "en": "Scaling",
+   "fr": "Généralisation"
+  }
+ ],
+ "initiatives": [
+  {
+   "id": "proto-ecosystem-governance",
+   "kind": "prototype",
+   "title": "Ecosystem stewardship",
+   "title_fr": "Gestion de l'écosystème",
+   "lead": [
+    "GRLI Foundation"
+   ],
+   "hosts": [
+    "GRLI Foundation",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "A light coordination function so that networks, associations and standard-setting bodies in business education can align their priorities and act together.",
+   "summary_fr": "Mettre en place une fonction de coordination légère afin que les réseaux, les associations et les organismes de normalisation de l'enseignement du management puissent aligner leurs priorités et agir ensemble.",
+   "junction": [
+    "Business schools",
+    "Accreditation & rankings bodies"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Systemic change"
+   ],
+   "open_call_fr": "Réseaux, associations et organismes de normalisation prêts à aligner leurs priorités.",
+   "open_call": "Networks, associations and standard-setting bodies ready to align priorities.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Une structure de coordination légère peut-elle amener réseaux, associations et accréditeurs de la formation au management à aligner leurs priorités et agir ensemble ?",
+   "question_en": "Can a light coordination structure get management-education networks, associations and standard-setters to align priorities and act together?",
+   "question_inferred": true,
+   "programme_url": "https://grli.org/"
+  },
+  {
+   "id": "proto-theory-u-journey",
+   "kind": "prototype",
+   "title": "Awareness-based systems change journey",
+   "title_fr": "Parcours de changement systémique fondé sur la conscience",
+   "lead": [
+    "Presencing Institute"
+   ],
+   "hosts": [
+    "Presencing Institute",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "A four-session journey helping educators rethink business education through Theory U and awareness-based practices.",
+   "summary_fr": "Un parcours en quatre séances pour aider les éducateurs à repenser l'enseignement du management grâce à la Théorie U et aux pratiques fondées sur la conscience.",
+   "junction": [
+    "Faculty/researchers",
+    "Civil society/movements"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Curriculum / pedagogy",
+    "Systemic change"
+   ],
+   "open_call_fr": "Éducateurs souhaitant rejoindre une cohorte.",
+   "open_call": "Educators wishing to join a cohort.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Presencing Institute",
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Un parcours de quatre séances fondé sur la Théorie U suffit-il à faire repenser aux enseignants leur pratique de l'enseignement du management ?",
+   "question_en": "Is a four-session Theory U journey enough to shift how educators reimagine business education?",
+   "question_inferred": true,
+   "programme_url": "https://www.u-school.org/"
+  },
+  {
+   "id": "proto-humanistic-academy",
+   "kind": "prototype",
+   "title": "Humanistic Leadership Academy",
+   "title_fr": "Académie du leadership humaniste",
+   "lead": [
+    "International Humanistic Management Association"
+   ],
+   "hosts": [
+    "International Humanistic Management Association",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "A progressive four-level programme helping educators and change-makers practise humanistic leadership.",
+   "summary_fr": "Un programme progressif à quatre niveaux aidant les éducateurs et les acteurs du changement à pratiquer un leadership humaniste.",
+   "junction": [
+    "Faculty/researchers",
+    "Civil society/movements"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Responsible management",
+    "Curriculum / pedagogy"
+   ],
+   "open_call_fr": "Éducateurs et acteurs du changement.",
+   "open_call": "Educators and change-makers.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Un programme progressif en quatre étapes permet-il aux éducateurs et acteurs du changement de mettre réellement en pratique un leadership humaniste ?",
+   "question_en": "Does a progressive four-step programme enable educators and changemakers to actually practise humanistic leadership?",
+   "question_inferred": true,
+   "programme_url": "https://humanisticmanagement.international/humanistic-leadership-academy/"
+  },
+  {
+   "id": "proto-regeneration-strategy",
+   "kind": "prototype",
+   "title": "Regeneration as core business strategy",
+   "title_fr": "La régénération comme stratégie d'entreprise fondamentale",
+   "lead": [
+    "The Club of Rome"
+   ],
+   "hosts": [
+    "The Club of Rome",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "Exploring what regenerative organisations expect from their future leaders, and what this implies for business schools.",
+   "summary_fr": "Explorer les attentes des organisations régénératives envers leurs futurs dirigeants et leurs implications pour les écoles de management.",
+   "junction": [
+    "Businesses/employers",
+    "Business schools"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Sustainability / climate",
+    "Curriculum / pedagogy"
+   ],
+   "open_call_fr": "Entreprises régénératives et écoles volontaires pour l'enquête.",
+   "open_call": "Regenerative companies and schools willing to take part in the inquiry.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "The Club of Rome",
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Qu'attendent les organisations régénératives de leurs futurs dirigeants, et qu'est-ce que cela implique pour les écoles de management ?",
+   "question_en": "What do regenerative organisations expect from future leaders, and what does that imply for business schools?",
+   "question_inferred": true,
+   "programme_url": "https://www.clubofrome.org/"
+  },
+  {
+   "id": "proto-student-voice",
+   "kind": "prototype",
+   "title": "Student voice",
+   "title_fr": "La voix des étudiants",
+   "lead": [
+    "Higher Education for Good Foundation",
+    "The Club of Rome",
+    "oikos international"
+   ],
+   "hosts": [
+    "Higher Education for Good Foundation",
+    "The Club of Rome",
+    "oikos international"
+   ],
+   "summary": "Bringing students' lived experiences and aspirations into the transformation of business education.",
+   "summary_fr": "Intégrer les expériences vécues et les aspirations des étudiants dans la transformation de l'enseignement du management.",
+   "junction": [
+    "Students",
+    "Business schools"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Student leadership"
+   ],
+   "open_call_fr": "Associations étudiantes et écoles prêtes à ouvrir leurs instances.",
+   "open_call": "Student organisations and schools ready to open their governance.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Higher Education for Good Foundation",
+    "The Club of Rome"
+   ],
+   "question_fr": "Comment intégrer les expériences vécues et aspirations des étudiants pour qu'elles pèsent réellement sur la transformation de l'enseignement du management ?",
+   "question_en": "How can students' lived experiences and aspirations be brought in so they genuinely shape the transformation of business education?",
+   "question_inferred": true,
+   "programme_url": "https://oikos-international.org/"
+  },
+  {
+   "id": "proto-thriving-cities",
+   "kind": "prototype",
+   "title": "Business schools for thriving cities",
+   "title_fr": "Écoles de management pour des villes prospères",
+   "lead": [
+    "Global Business School Network"
+   ],
+   "hosts": [
+    "Global Business School Network",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "Research on how business schools can contribute to the prosperity of their host cities.",
+   "summary_fr": "Recherche sur la manière dont les écoles de management peuvent contribuer à la prospérité de leurs villes d'accueil.",
+   "junction": [
+    "Business schools",
+    "Policy/multilateral institutions"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Research transformation",
+    "Systemic change"
+   ],
+   "open_call_fr": "Écoles et villes partenaires pour des études de cas.",
+   "open_call": "Schools and partner cities for case studies.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Par quels mécanismes une école de management contribue-t-elle à l'essor de sa ville d'implantation, et comment le mesurer ?",
+   "question_en": "Through which mechanisms does a business school help its home city flourish, and how can that be measured?",
+   "question_inferred": true,
+   "programme_url": "https://gbsn.org/"
+  },
+  {
+   "id": "proto-cec-academic-roadmap",
+   "kind": "prototype",
+   "title": "CEC Academic World: academic roadmap for regenerative transformation",
+   "title_fr": "CEC Academic World : feuille de route académique pour une transformation régénérative",
+   "lead": [
+    "Convention des Entreprises pour le Climat"
+   ],
+   "hosts": [
+    "Convention des Entreprises pour le Climat",
+    "Higher Education for Good Foundation"
+   ],
+   "summary": "Co-building, with the participants of the CEC global academic convention, a shared roadmap to transform programmes and institutions — first in France, then in Europe.",
+   "summary_fr": "Construire avec les participants de la Convention mondiale académique de la CEC une feuille de route commune pour transformer les programmes et les institutions, d'abord en France puis en Europe.",
+   "junction": [
+    "Business schools",
+    "Businesses/employers"
+   ],
+   "stage": "prototype",
+   "themes": [
+    "Curriculum / pedagogy",
+    "Sustainability / climate"
+   ],
+   "open_call_fr": "Établissements français puis européens.",
+   "open_call": "French, then European, institutions.",
+   "started": 2026,
+   "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
+   "sources": [
+    "https://www.higheredforgood.org/fr/transforming-business-education/"
+   ],
+   "learned": null,
+   "learned_fr": null,
+   "programme": "HE4G",
+   "external_hosts": [
+    "Convention des Entreprises pour le Climat",
+    "Higher Education for Good Foundation"
+   ],
+   "question_fr": "Des établissements réunis en convention peuvent-ils co-écrire une feuille de route commune transformant cursus et institutions, d'abord en France puis en Europe ?",
+   "question_en": "Can institutions convened in a CEC-style convention co-write a shared roadmap that transforms curricula and institutions, first in France then Europe-wide?",
+   "question_inferred": true,
+   "programme_url": "https://cec-impact.org/cec-territoriales/cec-la-convention-monde-academique-2026/"
+  },
+  {
+   "id": "prme-i5-playful-learning",
+   "title": "PRME Impactful Five (i5) — playful-learning pedagogy",
+   "title_fr": "PRME Impactful Five (i5) — pédagogie de l'apprentissage par le jeu",
+   "hosts": [
+    "PRME - Principles for Responsible Management Education",
+    "LEGO Foundation",
+    "Sulitest"
+   ],
+   "junction": [
+    "Faculty/researchers",
+    "Policy/multilateral institutions"
+   ],
+   "stage": "evidence",
+   "started": 2022,
+   "themes": [
+    "Curriculum / pedagogy",
+    "Responsible management"
+   ],
+   "summary": "Translating learning-through-play research into a playbook for management classrooms: a pilot with 18 educators led to the i5 Pedagogical Playbook (2023), backed by a 3-year LEGO Foundation grant.",
+   "summary_fr": "Traduire la recherche sur l'apprentissage par le jeu en un manuel pour les cours de management : un pilote avec 18 enseignants a donné le i5 Pedagogical Playbook (2023), soutenu par une subvention de 3 ans de la LEGO Foundation.",
+   "learned": "Five characteristics (meaningful, joyful, socially interactive, actively engaging, iterative) tested by a pilot cohort; impact measurement entrusted to Sulitest TASK; no quantitative outcome data published yet.",
+   "learned_fr": "Cinq caractéristiques (porteur de sens, joyeux, social, engageant, itératif) testées par une cohorte pilote ; mesure d'impact confiée à Sulitest TASK ; pas encore de résultats chiffrés publiés.",
+   "open_call": "PRME signatory educators invited to join i5 workshops.",
+   "open_call_fr": "Enseignants d'écoles signataires PRME invités aux ateliers i5.",
+   "url": "https://i5.unprme.org/about-2/",
+   "sources": [
+    "https://unprme.org/news/prme-launches-the-impactful-five-i5-playbook-transforming-business-education-through-creative-pedagogies"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "PRME - Principles for Responsible Management Education"
+   ],
+   "external_hosts": [
+    "LEGO Foundation"
+   ],
+   "study": {
+    "headline_fr": "Un cadre pédagogique testé par 18 enseignants pilotes, diffusé à 800+ écoles, sans évaluation d'impact publiée.",
+    "headline_en": "A pedagogy piloted by 18 educators and pushed to 800+ schools, with no published impact evaluation yet.",
+    "key_figures": [
+     {
+      "label_fr": "Subvention LEGO Foundation",
+      "label_en": "LEGO Foundation grant",
+      "value": "6 M",
+      "unit_or_note": "USD sur 3 ans",
+      "source_url": "https://i5.unprme.org/about-2/"
+     },
+     {
+      "label_fr": "Enseignants pilotes (vague 1)",
+      "label_en": "Pilot educators (wave 1)",
+      "value": "18",
+      "unit_or_note": "issus de la communauté PRME",
+      "source_url": "https://www.i5playbook.org/i5-story/"
+     },
+     {
+      "label_fr": "Lancement du Playbook",
+      "label_en": "Playbook launch",
+      "value": "06·2023",
+      "unit_or_note": "PRME Global Forum",
+      "source_url": "https://www.unprme.org/news/prme-launches-the-impactful-five-i5-playbook-transforming-business-education-through-creative-pedagogies/"
+     },
+     {
+      "label_fr": "Écoles documentées (Viewbook V2)",
+      "label_en": "Schools documented (Viewbook V2)",
+      "value": "12",
+      "unit_or_note": "56 pages, janv. 2025",
+      "source_url": "https://d30mzt1bxg5llt.cloudfront.net/public/uploads/PDFs/Viewbook-Putting-i5-into-Practice-2.pdf"
+     },
+     {
+      "label_fr": "Réseau cible PRME",
+      "label_en": "Target PRME network",
+      "value": "800+",
+      "unit_or_note": "institutions, 90+ pays",
+      "source_url": "https://www.i5playbook.org/i5-story/"
+     }
+    ],
+    "context_fr": "Programme porté par le Secrétariat PRME (UN Global Compact) avec le soutien de la LEGO Foundation et de Project Zero (Harvard GSE), à partir de la recherche « Learning Through Play ». Cinq caractéristiques (porteur de sens, joyeux, social, engageant, itératif) ont été traduites en Playbook pour enseignants, testé par 18 pilotes puis lancé en juin 2023 ; un Viewbook de cas (V2, janvier 2025) documente des usages dans 12 écoles. Deux articles IJME (2025) et un article RME (2026) traitent du projet.",
+    "context_en": "Run by the PRME Secretariat (UN Global Compact) with LEGO Foundation funding and Project Zero (Harvard GSE), building on 'Learning Through Play' research. Five characteristics (meaningful, joyful, social, active, iterative) were turned into an educator Playbook, tested by 18 pilot educators and launched June 2023; a case Viewbook (V2, January 2025) documents use in 12 schools. Two IJME articles (2025) and one RME article (2026) discuss the project.",
+    "limits_fr": "Aucun rapport d'évaluation quantitatif (effets sur les étudiants, nombre total d'enseignants formés) n'est publié ; le Viewbook est descriptif et auto-rapporté.",
+    "limits_en": "No quantitative evaluation (student outcomes, total educators trained) is published; the Viewbook is descriptive and self-reported.",
+    "source_doc": {
+     "title": "PRME Launches the Impactful-Five (i5) Playbook",
+     "type": "article",
+     "url": "https://www.unprme.org/news/prme-launches-the-impactful-five-i5-playbook-transforming-business-education-through-creative-pedagogies/",
+     "date": "2023-06"
+    },
+    "extra_links": [
+     {
+      "title": "i5 Playbook (PDF)",
+      "url": "https://d30mzt1bxg5llt.cloudfront.net/public/uploads/PDFs/i5-Playbook_final-2-1.pdf"
+     },
+     {
+      "title": "The Story of i5",
+      "url": "https://www.i5playbook.org/i5-story/"
+     },
+     {
+      "title": "Radclyffe-Thomas et al. 2025, IJME",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1472811725000126"
+     }
+    ]
+   }
+  },
+  {
+   "id": "rrbm-honor-roll",
+   "title": "RRBM Honor Roll & Responsible Research Award",
+   "title_fr": "Tableau d'honneur RRBM et Prix de la recherche responsable",
+   "hosts": [
+    "RRBM",
+    "Academy of Management"
+   ],
+   "junction": [
+    "Faculty/researchers",
+    "Business schools"
+   ],
+   "stage": "evidence",
+   "started": 2022,
+   "themes": [
+    "Research transformation",
+    "Assessment / rankings"
+   ],
+   "summary": "Making 'credible and useful to society' a visible, CV-grade signal: 110 peer-reviewed articles recognised so far, award co-sponsored with the AOM Fellows.",
+   "summary_fr": "Faire de « crédible et utile à la société » un signal visible et valorisable : 110 articles reconnus à ce jour, prix co-parrainé avec les Fellows de l'AOM.",
+   "learned": "Explicitly not a competition; adoption by promotion and tenure committees remains the open question.",
+   "learned_fr": "Explicitement pas un concours ; l'adoption par les comités de promotion et de titularisation reste la question ouverte.",
+   "open_call": "Schools, journals and publishers invited to use the Honor Roll as an impact indicator.",
+   "open_call_fr": "Écoles, revues et éditeurs invités à utiliser le tableau d'honneur comme indicateur d'impact.",
+   "url": "https://www.rrbm.network/rrbm-honor-roll/",
+   "sources": [
+    "https://rrbm.network/taking-action/awards/responsible-research-in-management-award/"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "RRBM"
+   ],
+   "external_hosts": [
+    "Academy of Management"
+   ],
+   "study": {
+    "headline_fr": "110 publications reconnues « utiles à la société » depuis 2022, mais sans mesure d'effet sur les pratiques.",
+    "headline_en": "110 publications recognised as 'useful to society' since 2022, with no measured effect on practice.",
+    "key_figures": [
+     {
+      "label_fr": "Publications au Honor Roll",
+      "label_en": "Honor Roll publications",
+      "value": "110",
+      "unit_or_note": "nominations ouvertes depuis juillet 2022",
+      "source_url": "https://rrbm.network/rrbm-honor-roll-2/"
+     },
+     {
+      "label_fr": "Lauréats du RRM Award 2026",
+      "label_en": "2026 RRM Award winners",
+      "value": "9",
+      "unit_or_note": "3 micro, 3 macro, 3 livres",
+      "source_url": "https://rrbm.network/taking-action/awards/responsible-research-in-management-award/2026-responsible-research-in-management-awards-winners/"
+     },
+     {
+      "label_fr": "Évaluateurs 2026",
+      "label_en": "2026 reviewers",
+      "value": "43 + 23",
+      "unit_or_note": "43 AOM Fellows et 23 dirigeants d'entreprise",
+      "source_url": "https://rrbm.network/taking-action/awards/responsible-research-in-management-award/2026-responsible-research-in-management-awards-winners/"
+     },
+     {
+      "label_fr": "Éditions de l'Award",
+      "label_en": "Award editions",
+      "value": "9",
+      "unit_or_note": "2018 puis 2019–2026",
+      "source_url": "https://rrbm.network/taking-action/awards/responsible-research-in-management-award/"
+     }
+    ],
+    "context_fr": "Le réseau RRBM gère deux dispositifs : le Honor Roll, créé en 2022, qui distingue articles, monographies ou livres selon deux critères (service à la société, impact sur les parties prenantes) via un comité éditorial multidisciplinaire ; et le Responsible Research in Management Award, co-parrainé par les Fellows de l'Academy of Management et RRBM, avec le soutien de Michigan Ross pour la cérémonie à l'AOM. Le Honor Roll n'est pas un concours : il vise à rendre visible la recherche crédible et utile.",
+    "context_en": "The RRBM network runs two schemes: the Honor Roll, launched 2022, which recognises articles, monographs or books against two criteria (service to society, impact on stakeholders) through a multidisciplinary editorial board; and the Responsible Research in Management Award, co-sponsored by the Academy of Management Fellows and RRBM, with Michigan Ross supporting the ceremony at AOM. The Honor Roll is explicitly not a competition but a visibility mechanism.",
+    "limits_fr": "Aucune donnée publiée sur les effets (citations, usage par les praticiens, changement des critères de promotion) ; le nombre de nominations reçues n'est pas communiqué.",
+    "limits_en": "No published outcome data (citations, practitioner uptake, changes to promotion criteria); the number of nominations received is not disclosed.",
+    "source_doc": {
+     "title": "RRBM Honor Roll",
+     "type": "page",
+     "url": "https://rrbm.network/rrbm-honor-roll-2/",
+     "date": "2026"
+    },
+    "extra_links": [
+     {
+      "title": "Responsible Research in Management Award",
+      "url": "https://rrbm.network/taking-action/awards/responsible-research-in-management-award/"
+     },
+     {
+      "title": "RRBM yearly activities",
+      "url": "https://rrbm.network/about-us/yearly-activities/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bs4cl-global-phd-course",
+   "title": "BS4CL Global PhD Course — Organizing the Climate Transition",
+   "title_fr": "Cours doctoral mondial BS4CL — Organiser la transition climatique",
+   "hosts": [
+    "Business Schools for Climate Leadership",
+    "HEC Paris",
+    "IESE Business School",
+    "Cambridge Judge Business School",
+    "INSEAD",
+    "IMD",
+    "London Business School",
+    "IE Business School",
+    "Saïd Business School"
+   ],
+   "junction": [
+    "Faculty/researchers",
+    "Business schools"
+   ],
+   "stage": "scaling",
+   "started": 2024,
+   "themes": [
+    "Research transformation",
+    "Sustainability / climate"
+   ],
+   "summary": "A free shared doctoral course so climate-transition research capacity is built across all schools, not only the eight alliance members; third edition in 2026 with faculty from non-member schools.",
+   "summary_fr": "Un cours doctoral gratuit et partagé pour bâtir une capacité de recherche sur la transition climatique dans toutes les écoles, pas seulement les huit membres ; troisième édition en 2026 avec des enseignants d'écoles non membres.",
+   "learned": "Weekly online format has run three editions; enrolment figures not published.",
+   "learned_fr": "Format hebdomadaire en ligne, trois éditions ; effectifs non publiés.",
+   "open_call": "PhD students in management, strategy and organisation theory.",
+   "open_call_fr": "Doctorants en management, stratégie et théorie des organisations.",
+   "url": "https://omt.aom.org/discussion/bs4cl-global-phd-course-organizing-the-climate-transition",
+   "sources": [
+    "https://www.hec.edu/en/school/news/europe-s-top-business-school-deans-unite-lead-climate-transition-changenow-2025"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "Business Schools for Climate Leadership"
+   ],
+   "external_hosts": [
+    "HEC Paris",
+    "IESE Business School",
+    "Cambridge Judge Business School",
+    "INSEAD",
+    "IMD",
+    "London Business School",
+    "IE Business School",
+    "Saïd Business School"
+   ],
+   "study": {
+    "headline_fr": "Un cours doctoral gratuit, bénévole et 100 % en ligne, 11 séances, reconduit chaque année depuis 2024.",
+    "headline_en": "A free, volunteer-taught, fully online doctoral course of 11 sessions, repeated yearly since 2024.",
+    "key_figures": [
+     {
+      "label_fr": "Séances en ligne",
+      "label_en": "Online sessions",
+      "value": "11",
+      "unit_or_note": "2 h chacune, janvier–avril",
+      "source_url": "https://www.iese.edu/wp-content/uploads/2025/01/0.BS4CL-Organizing-the-Climate-Transition-Phd-Course-2027-1.pdf"
+     },
+     {
+      "label_fr": "Coordinateurs / enseignants",
+      "label_en": "Coordinators / faculty",
+      "value": "4 / 11",
+      "unit_or_note": "Bansal, Ferraro, Howard-Grenville, Reinecke + 7",
+      "source_url": "https://www.iese.edu/faculty-research/organizing-climate-transition/"
+     },
+     {
+      "label_fr": "Coût pour les étudiants",
+      "label_en": "Cost to students",
+      "value": "0",
+      "unit_or_note": "enseignement bénévole, audit ou crédit local",
+      "source_url": "https://www.iese.edu/faculty-research/organizing-climate-transition/"
+     },
+     {
+      "label_fr": "Écoles de l'alliance BS4CL",
+      "label_en": "BS4CL member schools",
+      "value": "9",
+      "unit_or_note": "lancée à la COP26 (2021)",
+      "source_url": "https://www.bs4cl.org/"
+     },
+     {
+      "label_fr": "Toolkit Climate Leadership",
+      "label_en": "Climate Leadership Toolkit",
+      "value": "94",
+      "unit_or_note": "pages, 8 chapitres, déc. 2021",
+      "source_url": "https://www.bs4cl.org/resources/"
+     }
+    ],
+    "context_fr": "Cours porté par l'alliance BS4CL (Cambridge Judge, HEC Paris, IE, IESE, IMD, INSEAD, LBS, Oxford Saïd, SDA Bocconi), coordonné par IESE et Cambridge Judge, ouvert à tout doctorant en management, stratégie ou théorie des organisations avec un coordinateur local. Première édition annoncée en janvier 2024, éditions 2025, 2026 et 2027 ; un cours jumeau en finance climatique existe. L'alliance a aussi produit un toolkit pour dirigeants (2021) et un rapport du Forum 2024 (INSEAD).",
+    "context_en": "Run by the BS4CL alliance (Cambridge Judge, HEC Paris, IE, IESE, IMD, INSEAD, LBS, Oxford Saïd, SDA Bocconi), coordinated from IESE and Cambridge Judge, open to any management, strategy or organisation-theory PhD student with a local faculty coordinator. First edition announced January 2024, then 2025, 2026 and 2027; a companion climate-finance course exists. The alliance also produced an executive toolkit (2021) and a 2024 Forum report (INSEAD).",
+    "limits_fr": "Aucun chiffre d'inscription, de complétion ou de téléchargement du toolkit n'est publié ; pas d'évaluation des effets sur les thèses ou publications.",
+    "limits_en": "No enrolment, completion or toolkit-download figures are published; no evaluation of effects on dissertations or publications.",
+    "source_doc": {
+     "title": "Global PhD Course 'Organizing the Climate Transition' – Syllabus 2027",
+     "type": "pdf",
+     "url": "https://www.iese.edu/wp-content/uploads/2025/01/0.BS4CL-Organizing-the-Climate-Transition-Phd-Course-2027-1.pdf",
+     "date": "2026"
+    },
+    "extra_links": [
+     {
+      "title": "Course page (IESE)",
+      "url": "https://www.iese.edu/faculty-research/organizing-climate-transition/"
+     },
+     {
+      "title": "BS4CL Resources",
+      "url": "https://www.bs4cl.org/resources/"
+     },
+     {
+      "title": "BS4CL event page",
+      "url": "https://www.bs4cl.org/events/global-phd-course-organizing-the-climate-transition/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bs4cl-africa",
+   "title": "BS4CL Africa — African deans' climate coalition",
+   "title_fr": "BS4CL Afrique — coalition des doyens africains pour le climat",
+   "hosts": [
+    "PRME - Principles for Responsible Management Education",
+    "Business Schools for Climate Leadership",
+    "Lagos Business School",
+    "Strathmore Business School",
+    "Gordon Institute of Business Science",
+    "Stellenbosch Business School"
+   ],
+   "junction": [
+    "Business schools",
+    "Policy/multilateral institutions"
+   ],
+   "stage": "prototype",
+   "started": 2022,
+   "themes": [
+    "Sustainability / climate",
+    "Systemic change"
+   ],
+   "summary": "Replicating the European BS4CL model where climate impact is highest and resources lowest, anchored in PRME Chapter Africa and the COP calendar; six schools, each leading one project.",
+   "summary_fr": "Répliquer le modèle européen BS4CL là où l'impact climatique est le plus fort et les ressources les plus faibles, ancré dans le chapitre PRME Afrique et le calendrier des COP ; six écoles, chacune pilotant un projet.",
+   "learned": "Deans named local needs, authenticity and internal governance-before-expansion as conditions of credibility; the model has since been replicated as BS4CL Middle East.",
+   "learned_fr": "Les doyens ont nommé besoins locaux, authenticité et gouvernance interne avant expansion comme conditions de crédibilité ; le modèle a depuis été répliqué en BS4CL Moyen-Orient.",
+   "open_call": "International partners and project funding.",
+   "open_call_fr": "Partenaires internationaux et financement de projets.",
+   "url": "https://unprme.org/news/bs4cl-africa-a-year-of-climate-leadership-achievements-and-collaborative-initiatives",
+   "sources": [
+    "https://strathmore.edu/news/leading-african-business-school-deans-meet-to-call-for-greater-climate-action-by-business-schools/"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "PRME - Principles for Responsible Management Education"
+   ],
+   "external_hosts": [
+    "Lagos Business School",
+    "Strathmore Business School",
+    "Gordon Institute of Business Science",
+    "Stellenbosch Business School"
+   ],
+   "study": {
+    "headline_fr": "Six écoles africaines ont, en un an, produit forum, ateliers, compétition COP28 et un modèle répliqué au Moyen-Orient.",
+    "headline_en": "Six African schools delivered a forum, workshops, a COP28 competition and a model replicated in the Middle East within a year.",
+    "key_figures": [
+     {
+      "label_fr": "Écoles fondatrices",
+      "label_en": "Founding schools",
+      "value": "6",
+      "unit_or_note": "AUC, ESCA, GIBS, Lagos BS, Stellenbosch BS, Strathmore ; lancement COP27",
+      "source_url": "https://www.unprme.org/news/bs4cl-africa-a-year-of-climate-leadership-achievements-and-collaborative-initiatives/"
+     },
+     {
+      "label_fr": "Casablanca Climate Leadership Forum",
+      "label_en": "Casablanca Climate Leadership Forum",
+      "value": "11·2023",
+      "unit_or_note": "1re édition à ESCA ; 2e en oct. 2024",
+      "source_url": "https://globalfocusmagazine.com/the-casablanca-call-for-climate-leadership-shaping-africas-sustainable-future/"
+     },
+     {
+      "label_fr": "Webinaires 2024",
+      "label_en": "Webinars 2024",
+      "value": "3",
+      "unit_or_note": "mai, juin, juillet, hébergés par AUC",
+      "source_url": "https://www.bs4clafrica.org/wp-content/uploads/2025/08/BS4CL-Africa-Impact-Review_Compressed.pdf"
+     },
+     {
+      "label_fr": "Réplication Moyen-Orient",
+      "label_en": "Middle East replication",
+      "value": "8",
+      "unit_or_note": "écoles PRME Middle East, lancement COP28",
+      "source_url": "https://www.bs4cl.org/"
+     },
+     {
+      "label_fr": "Impact Review",
+      "label_en": "Impact Review",
+      "value": "23",
+      "unit_or_note": "pages, 2025, bilan 2022–2024 par école",
+      "source_url": "https://www.bs4clafrica.org/wp-content/uploads/2025/08/BS4CL-Africa-Impact-Review_Compressed.pdf"
+     }
+    ],
+    "context_fr": "Initiative lancée en novembre 2022 à la COP27 par six écoles, avec PRME Chapter Africa et BS4CL Europe. Première année : ateliers de développement professionnel, forum de Casablanca (ESCA, nov. 2023), compétition étudiante à la COP28, table ronde des doyens à l'AUC. 2024 : statuts, site web, webinaires, série de livres blancs ; 3e table ronde à Casablanca en octobre 2024. Le modèle a été repris par 8 écoles du Moyen-Orient.",
+    "context_en": "Launched November 2022 at COP27 by six schools, with PRME Chapter Africa and BS4CL Europe. Year one: professional-development workshops, the Casablanca forum (ESCA, Nov 2023), a student-led competition at COP28, a deans' roundtable at AUC. 2024: by-laws, website, webinar series, white-paper series; 3rd roundtable in Casablanca, October 2024. The model was taken up by 8 Middle East schools.",
+    "limits_fr": "Les documents ne donnent ni nombre de participants au forum ou à la compétition COP28, ni indicateurs d'effet sur les cursus ; l'Impact Review agrège surtout des activités par école.",
+    "limits_en": "Sources give no participant counts for the forum or the COP28 competition, nor curriculum-change indicators; the Impact Review mostly lists per-school activities.",
+    "source_doc": {
+     "title": "BS4CL Africa: A Year of Climate Leadership Achievements",
+     "type": "article",
+     "url": "https://www.unprme.org/news/bs4cl-africa-a-year-of-climate-leadership-achievements-and-collaborative-initiatives/",
+     "date": "2023-11"
+    },
+    "extra_links": [
+     {
+      "title": "BS4CL Africa Impact Review (PDF)",
+      "url": "https://www.bs4clafrica.org/wp-content/uploads/2025/08/BS4CL-Africa-Impact-Review_Compressed.pdf"
+     },
+     {
+      "title": "The Casablanca Call for Climate Leadership",
+      "url": "https://globalfocusmagazine.com/the-casablanca-call-for-climate-leadership-shaping-africas-sustainable-future/"
+     },
+     {
+      "title": "BS4CL Africa 2024 White Paper Series",
+      "url": "https://d30mzt1bxg5llt.cloudfront.net/public/uploads/PDFs/BS4CL-Africa-2024-WHITE-PAPER-SERIES-v3.1-with-revisions.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "pir-faculty-pilot",
+   "title": "Positive Impact Rating — student-led rating, faculty pilot",
+   "title_fr": "Positive Impact Rating — notation par les étudiants, pilote enseignants",
+   "hosts": [
+    "Positive Impact Rating",
+    "WWF",
+    "Oxfam",
+    "UN Global Compact",
+    "PRME - Principles for Responsible Management Education"
+   ],
+   "junction": [
+    "Students",
+    "Accreditation & rankings bodies"
+   ],
+   "stage": "scaling",
+   "started": 2020,
+   "themes": [
+    "Assessment / rankings",
+    "Student leadership"
+   ],
+   "summary": "Inverting the rankings logic: students rate their school's societal impact. 2025: 86 schools in 28 countries, 17,167 student responses; a faculty survey (268 faculty, 7 schools) is the new prototype layer.",
+   "summary_fr": "Inverser la logique des classements : les étudiants notent l'impact sociétal de leur école. 2025 : 86 écoles dans 28 pays, 17 167 réponses ; une enquête enseignants (268 répondants, 7 écoles) est la nouvelle couche prototype.",
+   "learned": "Faculty rate impact slightly higher than students (8.0 vs 7.8); students ask schools to 'walk the talk'. Growth 45 → 71 → 77 → 86 schools since 2022.",
+   "learned_fr": "Les enseignants notent un peu plus haut que les étudiants (8,0 contre 7,8) ; les étudiants demandent aux écoles de « joindre le geste à la parole ». 45 → 71 → 77 → 86 écoles depuis 2022.",
+   "open_call": "PIR 2027 registration open; combined student + faculty packages.",
+   "open_call_fr": "Inscriptions PIR 2027 ouvertes ; formules étudiants + enseignants.",
+   "url": "https://www.positiveimpactrating.org/",
+   "sources": [
+    "https://poetsandquants.com/2025/06/10/positive-impact-rating-2025-a-record-86-business-schools-rated-as-students-call-for-change/"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "Positive Impact Rating"
+   ],
+   "external_hosts": [
+    "WWF",
+    "Oxfam"
+   ],
+   "study": {
+    "headline_fr": "Dans 7 écoles pilotes, les enseignants notent leur école plus haut que les étudiants (8,0 contre 7,8).",
+    "headline_en": "In 7 pilot schools, faculty rate their school higher than students do (8.0 vs 7.8).",
+    "key_figures": [
+     {
+      "label_fr": "Écoles notées / pays",
+      "label_en": "Schools rated / countries",
+      "value": "86 / 28",
+      "unit_or_note": "+12 % vs 2024 ; 26 primo-participantes",
+      "source_url": "https://centrumpucpimpactopositivo.com/wp-content/uploads/2025/08/PIR-Report-2025.pdf"
+     },
+     {
+      "label_fr": "Réponses étudiantes",
+      "label_en": "Student responses",
+      "value": "17 167",
+      "unit_or_note": "+13 % vs 2024 ; 199 par école en moyenne",
+      "source_url": "https://centrumpucpimpactopositivo.com/wp-content/uploads/2025/08/PIR-Report-2025.pdf"
+     },
+     {
+      "label_fr": "Score PIR moyen",
+      "label_en": "Average PIR score",
+      "value": "7,8",
+      "unit_or_note": "stable ; 11 écoles au niveau 5, 46 au niveau 4, 29 au niveau 3",
+      "source_url": "https://www.positiveimpactrating.org/the-rating/report2025"
+     },
+     {
+      "label_fr": "Pilote enquête enseignants",
+      "label_en": "Faculty survey pilot",
+      "value": "268",
+      "unit_or_note": "enseignants + 1 079 étudiants, 7 écoles ; 8,0 contre 7,8",
+      "source_url": "https://centrumpucpimpactopositivo.com/wp-content/uploads/2025/08/PIR-Report-2025.pdf"
+     },
+     {
+      "label_fr": "Écart de perception maximal",
+      "label_en": "Largest perception gap",
+      "value": "16–18 %",
+      "unit_or_note": "une école, engagement public et soutien aux étudiants",
+      "source_url": "https://centrumpucpimpactopositivo.com/wp-content/uploads/2025/08/PIR-Report-2025.pdf"
+     }
+    ],
+    "context_fr": "6e édition du Positive Impact Rating (association à Lucerne, auteurs Katrin Muff et Thomas Dyllick), lancée le 10 juin 2025 au PRME Global Forum à New York. Enquête étudiante dans 86 écoles (minimum 100 répondants par école), plus, pour la première fois, une enquête enseignants optionnelle adoptée par 7 écoles. Résultats : score moyen stable à 7,8, Asie en tête (9,0), enseignants plus positifs que les étudiants surtout sur programmes, méthodes et soutien ; étudiants plus positifs sur la culture.",
+    "context_en": "6th edition of the Positive Impact Rating (Lucerne-based association; authors Katrin Muff and Thomas Dyllick), launched 10 June 2025 at the PRME Global Forum in New York. Student survey across 86 schools (minimum 100 respondents per school) plus, for the first time, an optional faculty survey taken up by 7 schools. Findings: average score stable at 7.8, Asia highest (9.0), faculty more positive than students especially on programmes, learning methods and student support; students more positive on culture.",
+    "limits_fr": "Le rapport souligne lui-même que l'échantillon enseignants (7 écoles) est trop petit pour conclure ; le classement publié reste fondé uniquement sur les étudiants.",
+    "limits_en": "The report itself states the faculty sample (7 schools) is too small to draw conclusions; the published rating remains student-only.",
+    "source_doc": {
+     "title": "PIR 2025 Report – Rethinking Societal Impact",
+     "type": "pdf",
+     "url": "https://centrumpucpimpactopositivo.com/wp-content/uploads/2025/08/PIR-Report-2025.pdf",
+     "date": "2025-06"
+    },
+    "extra_links": [
+     {
+      "title": "Official 2025 report page",
+      "url": "https://www.positiveimpactrating.org/the-rating/report2025"
+     },
+     {
+      "title": "Launch presentation (PDF)",
+      "url": "https://www.positiveimpactrating.org/_files/ugd/d46c06_48003dd6029946f89e916d9809036cd7.pdf"
+     },
+     {
+      "title": "Poets&Quants coverage",
+      "url": "https://poetsandquantsforundergrads.com/news/positive-impact-rating-2025-a-record-86-business-schools-rated-as-students-call-for-change/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sulitest-task-change-leaders",
+   "title": "TASK by Sulitest × PRME — Change Leader schools",
+   "title_fr": "TASK by Sulitest × PRME — écoles « Change Leader »",
+   "hosts": [
+    "Sulitest",
+    "PRME - Principles for Responsible Management Education",
+    "KEDGE Business School",
+    "ESSEC Business School"
+   ],
+   "junction": [
+    "Business schools",
+    "Businesses/employers"
+   ],
+   "stage": "scaling",
+   "started": 2023,
+   "themes": [
+    "Assessment / rankings",
+    "Sustainability / climate"
+   ],
+   "summary": "Making sustainability knowledge measurable with an entry/exit test and an employer-recognised certificate: 50 institutions in the first year, 30+ Change Leaders committing to test most students within 3 years.",
+   "summary_fr": "Rendre les connaissances en durabilité mesurables par un test entrée/sortie et un certificat reconnu par les employeurs : 50 établissements la première année, 30+ « Change Leaders » s'engageant à tester la plupart des étudiants sous 3 ans.",
+   "learned": "2025 alumni session (~800 alumni, 10 schools): only 21% felt higher education prepared them well for sustainability; 69% say it is core to their job.",
+   "learned_fr": "Session alumni 2025 (~800 diplômés, 10 écoles) : seuls 21 % estiment que l'enseignement supérieur les a bien préparés à la durabilité ; 69 % la jugent centrale dans leur métier.",
+   "open_call": "Institutions for the Change Leader programme; companies to recognise the certificate.",
+   "open_call_fr": "Établissements pour le programme Change Leader ; entreprises pour reconnaître le certificat.",
+   "url": "https://sulitest.org/task-prme-partnership",
+   "sources": [
+    "https://www.sulitest.org/news/lifelong-learning-sustainability-task-tm-2025-alumni"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "Sulitest"
+   ],
+   "external_hosts": [
+    "KEDGE Business School",
+    "ESSEC Business School"
+   ],
+   "study": {
+    "headline_fr": "Seuls 21 % des diplômés testés estiment que leurs études les ont préparés à la durabilité.",
+    "headline_en": "Only 21% of tested graduates feel their degree prepared them for sustainability challenges.",
+    "key_figures": [
+     {
+      "label_fr": "Institutions Change Leaders",
+      "label_en": "Change Leader institutions",
+      "value": "60+",
+      "unit_or_note": "80 000 personnes évaluées, 20+ pays depuis 2014",
+      "source_url": "https://www.sulitest.org/"
+     },
+     {
+      "label_fr": "Alumni testés (session 2025)",
+      "label_en": "Alumni tested (2025 session)",
+      "value": "~800",
+      "unit_or_note": "10 institutions partenaires",
+      "source_url": "https://www.sulitest.org/news/lifelong-learning-sustainability-task-tm-2025-alumni"
+     },
+     {
+      "label_fr": "Alumni se sentant bien préparés",
+      "label_en": "Alumni feeling well prepared",
+      "value": "21 %",
+      "unit_or_note": "69 % jugent la durabilité centrale au travail ; 50 % peu outillés",
+      "source_url": "https://www.sulitest.org/news/lifelong-learning-sustainability-task-tm-2025-alumni"
+     },
+     {
+      "label_fr": "Pilote TASK en espagnol",
+      "label_en": "TASK Spanish pilot",
+      "value": "29",
+      "unit_or_note": "institutions, ~4 000 étudiants, 9 pays ; lancement févr. 2026",
+      "source_url": "https://www.sulitest.org/news/one-year-of-task-tm-in-spanish-a-growing-community-sharing-good-practices-sulitest"
+     },
+     {
+      "label_fr": "Format TASK",
+      "label_en": "TASK format",
+      "value": "100",
+      "unit_or_note": "questions, 70 min, EN/FR/ES, certificat noté",
+      "source_url": "https://www.sulitest.org/task"
+     }
+    ],
+    "context_fr": "Sulitest (mouvement né en France en 2014, incubé à KEDGE) déploie TASK, test psychométrique de connaissances en durabilité, via des institutions « Change Leaders ». En 2025, une session alumni (~800 diplômés, 10 écoles dont ESSEC, KEDGE, IESEG, GEM, Sussex, KAUST, AUB) a combiné test et questions de perception : score moyen supérieur aux étudiants mais déficit sur les « leviers d'action ». Un pilote hispanophone (29 institutions, ~4 000 étudiants) a précédé le lancement de TASK en espagnol en février 2026.",
+    "context_en": "Sulitest (French-born movement, 2014; incubated at KEDGE) deploys TASK, a psychometric sustainability-knowledge test, through 'Change Leader' institutions. In 2025 an alumni session (~800 graduates, 10 schools incl. ESSEC, KEDGE, IESEG, GEM, Sussex, KAUST, AUB) combined the test with perception questions: alumni scored higher than students but weaker on 'levers of opportunity'. A Spanish-language pilot (29 institutions, ~4,000 students) preceded the launch of TASK in Spanish in February 2026.",
+    "limits_fr": "Pas de chiffre public distinct de certificats TASK délivrés ; l'échantillon alumni est auto-sélectionné et les pourcentages reposent sur des questions déclaratives.",
+    "limits_en": "No separate public count of TASK certificates issued; the alumni sample is self-selected and percentages rely on self-reported questions.",
+    "source_doc": {
+     "title": "Lifelong learning for sustainability: Insights from the 2025 TASK Alumni Session",
+     "type": "article",
+     "url": "https://www.sulitest.org/news/lifelong-learning-sustainability-task-tm-2025-alumni",
+     "date": "2025-07"
+    },
+    "extra_links": [
+     {
+      "title": "TASK – The Assessment of Sustainability Knowledge",
+      "url": "https://www.sulitest.org/task"
+     },
+     {
+      "title": "One Year of TASK in Spanish",
+      "url": "https://www.sulitest.org/news/one-year-of-task-tm-in-spanish-a-growing-community-sharing-good-practices-sulitest"
+     },
+     {
+      "title": "Change Leaders on the global stage (2025)",
+      "url": "https://www.sulitest.org/news/change-leaders-on-the-global-stage-highlights-key-2025-events"
+     }
+    ]
+   }
+  },
+  {
+   "id": "prme-oikos-leap",
+   "title": "PRME × oikos LEAP — change skills for student researchers",
+   "title_fr": "PRME × oikos LEAP — compétences de changement pour étudiants-chercheurs",
+   "hosts": [
+    "oikos international",
+    "PRME - Principles for Responsible Management Education"
+   ],
+   "junction": [
+    "Students",
+    "Policy/multilateral institutions"
+   ],
+   "stage": "prototype",
+   "started": 2024,
+   "themes": [
+    "Student leadership",
+    "Systemic change"
+   ],
+   "summary": "Equipping students and early researchers with inner-development and hosting skills so bottom-up pressure for change becomes competent, sustained agency; monthly practice-based cohort.",
+   "summary_fr": "Doter étudiants et jeunes chercheurs de compétences de développement intérieur et d'animation pour que la pression du bas devienne une capacité d'agir durable ; cohorte mensuelle centrée sur la pratique.",
+   "learned": "Second joint edition; includes a Playful Learning session built on PRME i5 — two initiatives linking up. No published evaluation.",
+   "learned_fr": "Deuxième édition conjointe ; inclut une séance d'apprentissage par le jeu issue de PRME i5 — deux initiatives qui se relient. Pas d'évaluation publiée.",
+   "open_call": "Students from undergraduate to post-doc working on sustainability challenges.",
+   "open_call_fr": "Étudiants de la licence au post-doctorat travaillant sur des enjeux de durabilité.",
+   "url": "https://www.unprme.org/news/prme-and-oikos-international-team-up-again-the-call-for-leap-2025-is-now-open",
+   "sources": [
+    "https://unprme.org/news/prme-and-oikos-international-collaborate-to-empower-sustainability-researchers"
+   ],
+   "kind": "pocket",
+   "programme": null,
+   "lead": [
+    "oikos international"
+   ],
+   "external_hosts": [],
+   "study": {
+    "headline_fr": "133 participants de 48 nationalités formés gratuitement en ligne sur 6 mois, sans évaluation publiée.",
+    "headline_en": "133 participants from 48 nationalities trained free online over 6 months, with no published evaluation.",
+    "key_figures": [
+     {
+      "label_fr": "Cohorte 2025",
+      "label_en": "2025 cohort",
+      "value": "133",
+      "unit_or_note": "participants, 48 nationalités, 104 institutions",
+      "source_url": "https://d30mzt1bxg5llt.cloudfront.net/public/uploads/PDFs/april-2025-newsletter.pdf"
+     },
+     {
+      "label_fr": "Référentiel de compétences LEAP",
+      "label_en": "LEAP skills framework",
+      "value": "23",
+      "unit_or_note": "compétences ; 3 approfondies en 2025",
+      "source_url": "https://oikos-international.org/leap2025/"
+     },
+     {
+      "label_fr": "Ateliers fondés sur la pratique",
+      "label_en": "Practice-based workshops",
+      "value": "90 %",
+      "unit_or_note": "ateliers mensuels + communautés de pratique + binômes",
+      "source_url": "https://oikos-international.org/leap2025/"
+     },
+     {
+      "label_fr": "Engagement demandé",
+      "label_en": "Time commitment",
+      "value": "4 h",
+      "unit_or_note": "par mois, mi-avril à septembre 2025, gratuit",
+      "source_url": "https://oikos-international.org/leap2025/"
+     }
+    ],
+    "context_fr": "LEAP est le programme de leadership d'oikos International (créé en 2015), co-porté avec PRME depuis la cohorte « LEAP Researchers » 2024 puis LEAP 2025, ouvert aux étudiants, doctorants et post-docs. En 2025 le programme est structuré par le cadre PRME i5 : ateliers mensuels sur 3 des 23 compétences LEAP (écoute, limites alignées sur les valeurs, communication), communautés de pratique, binômes, trois créneaux horaires ; le coaching individuel a été remplacé par l'apprentissage entre pairs.",
+    "context_en": "LEAP is oikos International's leadership programme (since 2015), co-run with PRME since the 2024 'LEAP Researchers' cohort and LEAP 2025, open to students, PhD students and post-docs. In 2025 it is framed by PRME's i5: monthly workshops on 3 of the 23 LEAP skills (listening, value-aligned boundaries, communication), communities of practice, a buddy system, three time-zone slots; 1:1 coaching was dropped in favour of peer learning.",
+    "limits_fr": "Aucun taux de complétion, résultat d'enquête ou évaluation d'impact n'est publié ; la taille de la cohorte 2024 n'est pas communiquée.",
+    "limits_en": "No completion rate, survey result or impact evaluation is published; the 2024 cohort size is not disclosed.",
+    "source_doc": {
+     "title": "LEAP Leadership Program 2025 (oikos International)",
+     "type": "page",
+     "url": "https://oikos-international.org/leap2025/",
+     "date": "2025-03"
+    },
+    "extra_links": [
+     {
+      "title": "PRME newsletter April 2025 – Meet the 2025 LEAP Cohort",
+      "url": "https://d30mzt1bxg5llt.cloudfront.net/public/uploads/PDFs/april-2025-newsletter.pdf"
+     },
+     {
+      "title": "PRME call for LEAP 2025",
+      "url": "https://www.unprme.org/news/prme-and-oikos-international-team-up-again-the-call-for-leap-2025-is-now-open/"
+     }
+    ]
+   }
+  }
+ ]
+}
