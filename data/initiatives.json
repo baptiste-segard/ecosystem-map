@@ -342,7 +342,7 @@
     "Convention des Entreprises pour le Climat",
     "Higher Education for Good Foundation"
    ],
-   "summary": "Co-building, with the participants of the CEC global academic convention, a shared roadmap to transform programmes and institutions — first in France, then in Europe.",
+   "summary": "Co-building, with the participants of the CEC global academic convention, a shared roadmap to transform programmes and institutions, first in France, then in Europe.",
    "summary_fr": "Construire avec les participants de la Convention mondiale académique de la CEC une feuille de route commune pour transformer les programmes et les institutions, d'abord en France puis en Europe.",
    "junction": [
     "Business schools",
@@ -374,8 +374,8 @@
   },
   {
    "id": "prme-i5-playful-learning",
-   "title": "PRME Impactful Five (i5) — playful-learning pedagogy",
-   "title_fr": "PRME Impactful Five (i5) — pédagogie de l'apprentissage par le jeu",
+   "title": "PRME Impactful Five (i5): playful-learning pedagogy",
+   "title_fr": "PRME Impactful Five (i5) : pédagogie de l'apprentissage par le jeu",
    "hosts": [
     "PRME - Principles for Responsible Management Education",
     "LEGO Foundation",
@@ -568,8 +568,8 @@
   },
   {
    "id": "bs4cl-global-phd-course",
-   "title": "BS4CL Global PhD Course — Organizing the Climate Transition",
-   "title_fr": "Cours doctoral mondial BS4CL — Organiser la transition climatique",
+   "title": "BS4CL Global PhD Course: Organizing the Climate Transition",
+   "title_fr": "Cours doctoral mondial BS4CL : Organiser la transition climatique",
    "hosts": [
     "Business Schools for Climate Leadership",
     "HEC Paris",
@@ -684,8 +684,8 @@
   },
   {
    "id": "bs4cl-africa",
-   "title": "BS4CL Africa — African deans' climate coalition",
-   "title_fr": "BS4CL Afrique — coalition des doyens africains pour le climat",
+   "title": "BS4CL Africa: African deans' climate coalition",
+   "title_fr": "BS4CL Afrique : coalition des doyens africains pour le climat",
    "hosts": [
     "PRME - Principles for Responsible Management Education",
     "Business Schools for Climate Leadership",
@@ -793,8 +793,8 @@
   },
   {
    "id": "pir-faculty-pilot",
-   "title": "Positive Impact Rating — student-led rating, faculty pilot",
-   "title_fr": "Positive Impact Rating — notation par les étudiants, pilote enseignants",
+   "title": "Positive Impact Rating: student-led rating, faculty pilot",
+   "title_fr": "Positive Impact Rating : notation par les étudiants, pilote enseignants",
    "hosts": [
     "Positive Impact Rating",
     "WWF",
@@ -899,8 +899,8 @@
   },
   {
    "id": "sulitest-task-change-leaders",
-   "title": "TASK by Sulitest × PRME — Change Leader schools",
-   "title_fr": "TASK by Sulitest × PRME — écoles « Change Leader »",
+   "title": "TASK by Sulitest × PRME: Change Leader schools",
+   "title_fr": "TASK by Sulitest × PRME : écoles « Change Leader »",
    "hosts": [
     "Sulitest",
     "PRME - Principles for Responsible Management Education",
@@ -1004,8 +1004,8 @@
   },
   {
    "id": "prme-oikos-leap",
-   "title": "PRME × oikos LEAP — change skills for student researchers",
-   "title_fr": "PRME × oikos LEAP — compétences de changement pour étudiants-chercheurs",
+   "title": "PRME × oikos LEAP: change skills for student researchers",
+   "title_fr": "PRME × oikos LEAP : compétences de changement pour étudiants-chercheurs",
    "hosts": [
     "oikos international",
     "PRME - Principles for Responsible Management Education"
@@ -1022,8 +1022,8 @@
    ],
    "summary": "Equipping students and early researchers with inner-development and hosting skills so bottom-up pressure for change becomes competent, sustained agency; monthly practice-based cohort.",
    "summary_fr": "Doter étudiants et jeunes chercheurs de compétences de développement intérieur et d'animation pour que la pression du bas devienne une capacité d'agir durable ; cohorte mensuelle centrée sur la pratique.",
-   "learned": "Second joint edition; includes a Playful Learning session built on PRME i5 — two initiatives linking up. No published evaluation.",
-   "learned_fr": "Deuxième édition conjointe ; inclut une séance d'apprentissage par le jeu issue de PRME i5 — deux initiatives qui se relient. Pas d'évaluation publiée.",
+   "learned": "Second joint edition; includes a Playful Learning session built on PRME i5, two initiatives linking up. No published evaluation.",
+   "learned_fr": "Deuxième édition conjointe ; inclut une séance d'apprentissage par le jeu issue de PRME i5, deux initiatives qui se relient. Pas d'évaluation publiée.",
    "open_call": "Students from undergraduate to post-doc working on sustainability challenges.",
    "open_call_fr": "Étudiants de la licence au post-doctorat travaillant sur des enjeux de durabilité.",
    "url": "https://www.unprme.org/news/prme-and-oikos-international-team-up-again-the-call-for-leap-2025-is-now-open",

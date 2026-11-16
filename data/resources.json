@@ -80,7 +80,7 @@
   {
    "id": "sulitest",
    "type": "tool",
-   "title": "Sulitest — sustainability literacy test (TASK™)",
+   "title": "Sulitest: sustainability literacy test (TASK™)",
    "year": 2014,
    "url": "https://www.sulitest.org/",
    "summary": "Online assessment of sustainability knowledge used by universities and organisations worldwide; born from the UN Higher Education Sustainability Initiative after Rio+20 and promoted by PRME.",
@@ -249,7 +249,7 @@
   {
    "id": "rrbm-vision",
    "type": "research",
-   "title": "RRBM — A Vision of Responsible Research in Business and Management",
+   "title": "RRBM: A Vision of Responsible Research in Business and Management",
    "year": 2017,
    "url": "https://www.rrbm.network/position-paper/",
    "summary": "Position paper and network calling for credible and useful research; endorsed and co-sponsored by the main accreditation and school networks.",
@@ -287,7 +287,7 @@
   {
    "id": "5020",
    "type": "research",
-   "title": "The 50+20 Agenda — Management Education for the World",
+   "title": "The 50+20 Agenda: Management Education for the World",
    "year": 2012,
    "url": "https://grli.org/50plus20/",
    "summary": "Vision for management education presented at Rio+20, co-produced by GRLI, PRME and the World Business School Council for Sustainable Business; foundation of the “business schools for the world” narrative.",
@@ -429,7 +429,7 @@
   {
    "id": "earth4all",
    "type": "research",
-   "title": "Earth for All — a survival guide for humanity (report to the Club of Rome)",
+   "title": "Earth for All: a survival guide for humanity (report to the Club of Rome)",
    "year": 2022,
    "url": "https://www.earth4all.life/",
    "summary": "Modelling-based report proposing five extraordinary turnarounds, convened by the Club of Rome with the Potsdam Institute, Stockholm Resilience Centre and BI Norwegian Business School; basis of policy and teaching material.",
@@ -503,7 +503,7 @@
   {
    "id": "sdg-accord",
    "type": "standard",
-   "title": "SDG Accord — the university and college sector’s collective response to the SDGs",
+   "title": "SDG Accord: the university and college sector’s collective response to the SDGs",
    "year": 2017,
    "url": "https://www.sdgaccord.org/",
    "summary": "Commitment signed by institutions and networks to embed the SDGs and report annually; developed and led by EAUC with sector partners and the UN HESI.",
@@ -538,7 +538,7 @@
   {
    "id": "stars",
    "type": "tool",
-   "title": "AASHE STARS — Sustainability Tracking, Assessment & Rating System",
+   "title": "AASHE STARS: Sustainability Tracking, Assessment & Rating System",
    "year": 2009,
    "url": "https://stars.aashe.org/",
    "summary": "Self-reporting framework used by 1,000+ colleges and universities to measure sustainability performance across academics, engagement, operations and administration.",
@@ -583,7 +583,7 @@
   {
    "id": "imp",
    "type": "standard",
-   "title": "Impact Management Platform — shared vocabulary of impact management",
+   "title": "Impact Management Platform: shared vocabulary of impact management",
    "year": 2021,
    "url": "https://impactmanagementplatform.org/",
    "summary": "Collaboration of standard-setters (UNEP FI, UN Global Compact, WBCSD, B Lab, GRI, OECD, IFRS…) clarifying the actions of impact management and how their standards fit together.",
@@ -756,7 +756,7 @@
   {
    "id": "proto-ecosystem",
    "type": "programme",
-   "title": "Prototype — Responsible ecosystem management",
+   "title": "Prototype: Responsible ecosystem management",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Light coordination structure for business-education networks and standards bodies, led by the GRLI Foundation as one of the initiative’s first prototypes.",
@@ -778,7 +778,7 @@
   {
    "id": "proto-hla",
    "type": "programme",
-   "title": "Prototype — Humanistic Leadership Academy",
+   "title": "Prototype: Humanistic Leadership Academy",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Four-stage programme for applying humanistic leadership, led by the International Humanistic Management Association.",
@@ -800,7 +800,7 @@
   {
    "id": "proto-student-voice",
    "type": "programme",
-   "title": "Prototype — Student voice",
+   "title": "Prototype: Student voice",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Integrates students’ experiences and aspirations into business education, led by HE4G, the Club of Rome and oikos International.",
@@ -825,7 +825,7 @@
   {
    "id": "proto-cities",
    "type": "programme",
-   "title": "Prototype — Business schools for thriving cities",
+   "title": "Prototype: Business schools for thriving cities",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Research programme on how business schools can support their host cities, led by the Global Business School Network.",
@@ -847,7 +847,7 @@
   {
    "id": "proto-u",
    "type": "programme",
-   "title": "Prototype — Awareness-based systems transformation journey",
+   "title": "Prototype: Awareness-based systems transformation journey",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Four-session programme for educators based on Theory U, led by the Presencing Institute.",
@@ -865,7 +865,7 @@
   {
    "id": "proto-cec",
    "type": "programme",
-   "title": "Prototype — CEC academic roadmap",
+   "title": "Prototype: CEC academic roadmap",
    "year": 2026,
    "url": "https://www.higheredforgood.org/fr/transforming-business-education/",
    "summary": "Joint roadmap to transform curricula and institutions, starting in France then across Europe, led by the Convention des Entreprises pour le Climat.",
