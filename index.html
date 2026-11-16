@@ -1403,15 +1403,16 @@ details.study[open]>summary .chev{transform:rotate(180deg)}
 }
 @media print{ .pan-nav,.board-wrap .bnav,.board-wrap::before,.board-wrap::after{display:none!important} .board-wrap .board{flex-wrap:wrap;overflow:visible} .pan-inner{gap:18px} .pan-sec{padding:14px} }
 
+body.onboarding .spark-badge{display:none}
 </style>
 </head>
 <body>
 
 
 <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs>
-  <linearGradient id="gk" gradientUnits="userSpaceOnUse" x1="4" y1="52" x2="60" y2="10"><stop offset="0" stop-color="#16A34A" class="ga"/><stop offset="1" stop-color="#2F80ED" class="gb"/></linearGradient>
-  <symbol id="gecko" viewBox="0 0 64 64"><g fill="none" stroke="url(#gk)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><circle cx="27" cy="37" r="5.6"/><path d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(95)"/><path d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(152)"/><path d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(209)"/><path d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(266)"/><path d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(323)"/><path class="thread" d="M29.8,32.2 Q32.2,24.0 39.6,20.9" stroke-width="1.5"/><path class="fly" d="M0,-9.5 C2.7,-12.5 4.6,-15.5 4.6,-20 A4.6,4.6 0 0 0 -4.6,-20 C-4.6,-15.5 -2.7,-12.5 0,-9.5 Z" transform="translate(27 37) rotate(38) translate(0 -11.5) rotate(10 0 -9.5)"/></g></symbol>
-<symbol id="petal-open" viewBox="0 0 64 64"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"><circle cx="32" cy="32" r="6"/><path d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(-150)"/><path d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(-90)"/><path d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(-30)"/><path d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(30)"/><path d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(90)"/><path class="sixth" d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" transform="translate(32 32) rotate(150)" stroke-dasharray="3 3.5" fill="currentColor" fill-opacity="0"/></g></symbol><symbol id="petal-glyph" viewBox="-8 9 16 18"><path transform="rotate(180)" d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" fill="currentColor" stroke="none"/></symbol>
+  <linearGradient id="gk" gradientUnits="userSpaceOnUse" x1="4" y1="52" x2="60" y2="10"><stop offset="0" stop-color="#16A34A" class="ga"/><stop offset="1" stop-color="#2F80ED" class="gb"/></linearGradient><linearGradient id="gd1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#16A34A"/><stop offset="1" stop-color="#8BC34A"/></linearGradient><linearGradient id="gd2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#2F80ED"/><stop offset="1" stop-color="#7C4DFF"/></linearGradient><linearGradient id="gd3" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#F2B01E"/><stop offset="1" stop-color="#E2572B"/></linearGradient>
+  <symbol id="gecko" viewBox="0 0 64 64"><circle class="d" cx="13" cy="32" r="7.4" fill="url(#gd1)"/><circle class="d" cx="32" cy="32" r="7.4" fill="url(#gd2)"/><circle class="d" cx="51" cy="32" r="7.4" fill="url(#gd3)"/></symbol>
+<symbol id="petal-open" viewBox="0 0 64 64"><g fill="currentColor"><circle cx="13" cy="32" r="6.4"/><circle cx="32" cy="32" r="6.4"/></g><circle class="sixth" cx="51" cy="32" r="5.6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-dasharray="2.6 3" stroke-linecap="round"/></symbol><symbol id="petal-glyph" viewBox="-8 9 16 18"><path transform="rotate(180)" d="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z" fill="currentColor" stroke="none"/></symbol>
 </defs></svg>
 <header class="top">
   <div class="brand">
@@ -3687,8 +3688,8 @@ function countUp(container){
   container.querySelectorAll('.stat b').forEach(b=>{ const target=parseInt(b.textContent.replace(/\D/g,''),10); if(isNaN(target)) return; const k=(b.nextElementSibling?.textContent||'')+'|'+(container.id||''); const prev=k in statPrev?statPrev[k]:0; statPrev[k]=target; if(prev===target||!motion()) return; const o={v:prev}; G.to(o,{v:target,duration:.6,ease:EASE,snap:{v:1},onUpdate:()=>{ b.textContent=Math.round(o.v); },onComplete:()=>{ b.textContent=target; }}); });
 }
 // the flower mark: inline the symbol so petals can bloom; optional breathing loop
-function inlineMark(svg){ if(!svg || svg.dataset.inlined) return svg; const sym=document.getElementById('gecko'); if(!sym) return svg; svg.setAttribute('viewBox',sym.getAttribute('viewBox')||'0 0 64 64'); svg.innerHTML=sym.innerHTML; svg.querySelectorAll('path').forEach(pth=>{ const g=document.createElementNS('http://www.w3.org/2000/svg','g'); g.setAttribute('class','petal'); pth.parentNode.insertBefore(g,pth); g.appendChild(pth); }); svg.dataset.inlined='1'; return svg; }
-function bloom(svg){ if(!svg) return; inlineMark(svg); if(!motion()) return; const petals=svg.querySelectorAll('g.petal'); if(!petals.length) return; G.killTweensOf(petals); G.fromTo(petals,{scale:0,svgOrigin:'24 32',opacity:0},{scale:1,opacity:1,svgOrigin:'24 32',duration:.6,ease:EASE2,stagger:.06,clearProps:'opacity,transform'}); }
+function inlineMark(svg){ if(!svg || svg.dataset.inlined) return svg; const sym=document.getElementById('gecko'); if(!sym) return svg; svg.setAttribute('viewBox',sym.getAttribute('viewBox')||'0 0 64 64'); svg.innerHTML=sym.innerHTML; svg.querySelectorAll('path,circle.d').forEach(pth=>{ const g=document.createElementNS('http://www.w3.org/2000/svg','g'); g.setAttribute('class','petal'); g.style.transformBox='fill-box'; g.style.transformOrigin='50% 50%'; pth.parentNode.insertBefore(g,pth); g.appendChild(pth); }); svg.dataset.inlined='1'; return svg; }
+function bloom(svg){ if(!svg) return; inlineMark(svg); if(!motion()) return; const petals=svg.querySelectorAll('g.petal'); if(!petals.length) return; G.killTweensOf(petals); G.fromTo(petals,{scale:0,opacity:0,transformOrigin:'50% 50%'},{scale:1,opacity:1,transformOrigin:'50% 50%',duration:.5,ease:EASE2,stagger:.12,clearProps:'opacity,transform'}); }
 let curBreath=null; // only one mark breathes at a time (purpose screen, or Bloom while it thinks)
 function breathe(svg,on){ if(curBreath){ const prev=curBreath.targets()[0]; curBreath.kill(); curBreath=null; if(prev&&prev.isConnected) G.set(prev,{clearProps:'transform'}); } if(on && svg && motion()){ curBreath=G.to(svg,{scale:1.03,transformOrigin:'50% 50%',duration:3,yoyo:true,repeat:-1,ease:'sine.inOut'}); } }
 // segmented controls: a sliding indicator moved with Flip
@@ -3701,7 +3702,7 @@ function segIndicator(seg){
 }
 function segIndicatorsAll(){ segIndicator(document.getElementById('viewSeg')); segIndicator(document.getElementById('langSeg')); }
 // page intro: header pieces fade+rise, brand mark blooms
-function petalPulse(){ const m=document.querySelector('#filtersBtn .mark'); if(!m||!motion()) return; inlineMark(m); const ps=m.querySelectorAll('g.petal'); if(!ps.length) return; const p=ps[Math.floor(Math.random()*ps.length)]; p.classList.add('lit'); G.fromTo(p,{scale:1,svgOrigin:'24 32'},{scale:1.18,duration:.3,yoyo:true,repeat:1,ease:'sine.inOut',svgOrigin:'24 32',onComplete:()=>{ p.classList.remove('lit'); G.set(p,{clearProps:'transform'}); }}); }
+function petalPulse(){ const m=document.querySelector('#filtersBtn .mark'); if(!m||!motion()) return; inlineMark(m); const ps=m.querySelectorAll('g.petal'); if(!ps.length) return; const p=ps[Math.floor(Math.random()*ps.length)]; p.classList.add('lit'); G.fromTo(p,{scale:1,transformOrigin:'50% 50%'},{scale:1.25,duration:.3,yoyo:true,repeat:1,ease:'sine.inOut',transformOrigin:'50% 50%',onComplete:()=>{ p.classList.remove('lit'); G.set(p,{clearProps:'transform'}); }}); }
 function pageIntro(){
   const brand=document.querySelector('#filtersBtn .mark'); bloom(brand);
   if(!motion()) return;
@@ -5367,8 +5368,8 @@ function heroSeed(){ let seen=false; try{ seen=sessionStorage.getItem('ecomap.he
   gGroups.selectAll('circle').style('opacity',0); gLabels.selectAll('text.group-label').style('opacity',0); gLinks.selectAll('*').remove();
   const dots=gNodes.selectAll('circle.node'); dots.attr('cx',cx).attr('cy',cy).attr('r',3.75).style('opacity',0);
   const PET="M0,-11 C3.2,-14.5 5.5,-18.5 5.5,-24 A5.5,5.5 0 0 0 -5.5,-24 C-5.5,-18.5 -3.2,-14.5 0,-11 Z";
-  gHero.selectAll('*').remove(); const fl=gHero.append('g').attr('transform',`translate(${cx},${cy}) scale(${R/24})`); fl.append('circle').attr('r',6.5);
-  [-150,-90,-30,30,90].forEach(a=>fl.append('path').attr('d',PET).attr('transform',`rotate(${a})`));
+  gHero.selectAll('*').remove(); const fl=gHero.append('g').attr('transform',`translate(${cx},${cy}) scale(${R/24})`);
+  [-19,0,19].forEach(x=>fl.append('path').attr('d',`M${x-7},0a7,7 0 1,0 14,0a7,7 0 1,0 -14,0`));
   const paths=fl.selectAll('path').nodes(); paths.forEach(p=>{ const L=p.getTotalLength(); p.style.strokeDasharray=L; p.style.strokeDashoffset=L; });
   const run=()=>{ const tl=G.timeline({onComplete:()=>{ heroPlaying=false; gHero.selectAll('*').remove(); dots.style('opacity',null); }});
     tl.to(paths,{strokeDashoffset:0,duration:.6,ease:'power2.inOut',stagger:.05},0);
