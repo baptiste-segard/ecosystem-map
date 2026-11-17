@@ -25,12 +25,12 @@
 
   /* ---------- styles ---------- */
   var css = [
-    '#fbTab{position:fixed;left:0;top:50%;transform:translateY(-50%);z-index:2147483000;writing-mode:vertical-rl;rotate:180deg;',
-    'background:var(--ink,#141A17);color:#fff;border:0;border-radius:0 12px 12px 0;padding:14px 9px;font:600 13px/1 var(--font-ui,Figtree,system-ui,sans-serif);',
+    '#fbTab{position:fixed;right:0;top:50%;transform:translateY(-50%);z-index:2147483000;writing-mode:vertical-rl;',
+    'background:var(--ink,#141A17);color:#fff;border:0;border-radius:12px 0 0 12px;padding:14px 9px;font:600 13px/1 var(--font-ui,Figtree,system-ui,sans-serif);',
     'letter-spacing:.02em;cursor:pointer;box-shadow:0 6px 20px -6px rgba(0,0,0,.35);display:flex;align-items:center;gap:8px}',
     '#fbTab:hover{background:#000}',
     '#fbTab .fb-dot{width:8px;height:8px;border-radius:50%;background:var(--accent,#16A34A);box-shadow:0 0 0 3px rgba(22,163,74,.25)}',
-    '#fbTab .fb-n{rotate:180deg;writing-mode:horizontal-tb;background:rgba(255,255,255,.18);border-radius:999px;padding:3px 6px;font:600 11px/1 var(--font-data,ui-monospace,monospace)}',
+    '#fbTab .fb-n{writing-mode:horizontal-tb;background:rgba(255,255,255,.18);border-radius:999px;padding:3px 6px;font:600 11px/1 var(--font-data,ui-monospace,monospace)}',
     'body.fb-picking #fbTab{background:var(--accent,#16A34A)}',
     'body.fb-picking, body.fb-picking *{cursor:crosshair!important}',
     '#fbHover{position:fixed;z-index:2147482990;pointer-events:none;border:2px solid var(--accent,#16A34A);border-radius:8px;background:rgba(22,163,74,.08);transition:all .08s ease-out;display:none}',
