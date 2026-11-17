@@ -5704,8 +5704,11 @@ applyNarrow(); renderLegend(); renderHint(); renderDetail(); layout();
 requestAnimationFrame(()=>{ segIndicatorsAll(); pageIntro(); });
 const hadSession=compLoad();
 if(!hadSession && !profile && !myOrg && localStorage.getItem('ecomap.purposeSeen')!=='1') showPurpose(); else if(companionOpen) renderDetail();
+// feedback tool (feedback.js) reads the current context through this hook
+window.__ecomapCtx=()=>{ let j=null; try{ j=selectedJunction? (Array.isArray(selectedJunction)?selectedJunction.join(' × '):(selectedJunction.a&&selectedJunction.b? selectedJunction.a+' × '+selectedJunction.b : String(selectedJunction.key||selectedJunction.id||'oui'))):null; }catch(e){} const f={}; Object.keys(active).forEach(k=>{ if(active[k].size) f[k]=[...active[k]]; }); return {view:viewMode, lang, selected:selected&&selected.name||null, res:selectedRes&&(selectedRes.title||selectedRes.name)||null, ini:selectedIni&&iniTitle(selectedIni)||null, junction:j, query, filters:f, companion:companionOpen}; };
 })();
 </script>
+<script src="feedback.js" defer></script>
 
 </body>
 </html>
